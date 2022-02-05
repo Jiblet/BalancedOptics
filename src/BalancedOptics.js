@@ -26,8 +26,6 @@ class Mod
 		this.mod = "BalancedOptics";
         Logger.info(`Loading: ${this.mod}`)
 		ModLoader.onLoad[this.mod] = this.load.bind(this);
-		// common_f.logger.logInfo(`Loading: ${this.mod}`);
-        // core_f.packager.onLoad[this.mod] = this.load.bind(this);
     }
 
     load()
@@ -135,7 +133,10 @@ class Mod
 			DatabaseServer.tables.templates.items["61659f79d92c473c770213ee"]._props.Ergonomics = modErgo,
 
 			//Leapers UTG reflex sight
-			DatabaseServer.tables.templates.items["6165ac8c290d254f5e6b2f6c"]._props.Ergonomics = modErgo
+			DatabaseServer.tables.templates.items["6165ac8c290d254f5e6b2f6c"]._props.Ergonomics = modErgo,
+
+			//SIG Sauer ROMEO8T reflex sight
+			DatabaseServer.tables.templates.items["60a23797a37c940de7062d02"]._props.Ergonomics = modErgo
 		}
 		
 		//Compact Collimators
@@ -290,6 +291,9 @@ class Mod
 			//Compact mount for sights
 			DatabaseServer.tables.templates.items["5c1cdd302e221602b3137250"]._props.Ergonomics = modErgo,
 			
+			//SIG Sauer ROMEO sight mount
+			DatabaseServer.tables.templates.items["5b31163c5acfc400153b71cb"]._props.Ergonomics = modErgo,
+
 			//Mosin Rifle Kochetov mount
 			DatabaseServer.tables.templates.items["5b3f7bf05acfc433000ecf6b"]._props.Ergonomics = modErgo
 			
