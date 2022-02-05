@@ -13,7 +13,8 @@ But most importantly, a lot of things were brought much closer to meta.
 My long term goal is simply to give players more choices for running competitive and cool weapons and builds.
 ---
 
-Jiblet: I fully agree with Fershte's notes, so have updated the mod to include the 12.12 optics and updated the constructor function.
+Update by Jiblet:
+I fully agree with Fershte's notes, so have updated the mod to include the 12.12 optics and updated the constructor function.
 I've also separated out the 30mm scopes from the 34mms and made them -3 - Fershte probably hates this. Hah!
 Oh and I also brough the PU 3.5x for the mosin into the 30mm optic category (-3 ergo ). -5 made my inner Russian sad.
 */
