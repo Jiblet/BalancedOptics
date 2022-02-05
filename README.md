@@ -14,6 +14,7 @@ Actual scopes should be standardized as -3 for 1 to 6, -4 for big scopes, and -5
 
 This is part of a mod family - It also includes "BalancedForegrips" which rebalances them so that the Fortis Shift isn't the only grip worth using.
 
+-------------
 
 And I'm Jiblet. I updated Freshte excellent work to include the scopes introduced in 12.12
 I also gave the Mosin PU 3.5 scope and it's mount a bit of a tickle. You're welcome.
