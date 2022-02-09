@@ -1,4 +1,7 @@
 # BalancedOptics
+
+Superceded by https://github.com/Jiblet/BalancePatch 
+
 Hi; I'm Fershte; and I made a gigantic balance patch.
 EFT's balance is extremely ill fiting for a single player experience.
 This specific mod is designed so that the choice between any given optic or mount of the same class is merely cosmeticly different.
